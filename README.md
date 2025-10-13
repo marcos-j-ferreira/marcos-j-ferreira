@@ -17,10 +17,10 @@ I’m a technology enthusiast driven by the desire to understand **how things wo
 
 | Category | Tools |
 |----------|--------|
-| Languages | Java, JavaScript |
-| Backend | Spring Boot, Gradle |
-| Cloud | AWS (EC2, S3, VPC, IAM, Lambda – in progress) |
-| DevOps | Docker, Docker Compose |
+| Languages | Java, Go |
+| Backend | Spring Boot, Gradle, net/http |
+| Cloud | AWS |
+| DevOps | Docker, Docker Compose, Terraform |
 | Databases | MySQL |
 | Others | Linux, Git, REST APIs, Clean Code |
 
@@ -28,12 +28,12 @@ I’m a technology enthusiast driven by the desire to understand **how things wo
 
 ## Highlight Projects
 
-| Project | Description |
-|---------|-------------|
-| Online Chess Game | Real-time multiplayer chess game |
-| Static Website on AWS | Frontend hosted using S3 + CloudFront |
-| Serverless Function | Application using AWS Lambda |
-| E-commerce API | Domain-driven REST API built with best practices |
+| Project | Description | Link of project |
+|---------|-------------|-------------|
+| Online Chess Game | Real-time multiplayer chess game | [Chess-EC2-prod](https://github.com/marcos-j-ferreira/chess-EC2-prod.git) |
+| Static Website on AWS | Frontend hosted using S3 | [website-Static-S3](https://github.com/marcos-j-ferreira/website-Static-S3.git) |
+| Serverless Function | Application using AWS Lambda | [lambda-java](https://github.com/marcos-j-ferreira/lambda-java.git) |
+| E-commerce API | Domain-driven REST API built with best practices | [E-commerce-API](https://github.com/marcos-j-ferreira/E-Commerce-API.git)|
 
 > Some projects are still in development and constantly evolving.
 
@@ -50,6 +50,3 @@ I am working to evolve as a **Backend Developer specialized in Cloud**, masterin
 - Fan of **clean and organized code**
 - Driven by **continuous learning and growth**
 
-
-
-Thanks for visiting! 🚀
