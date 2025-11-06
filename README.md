@@ -9,8 +9,7 @@ I’m a technology enthusiast driven by the desire to understand **how things wo
 ## What I'm currently working on
 -  Improving my knowledge in **AWS** and cloud architectures
 -  Developing practical projects combining **Cloud + Backend**
--  Exploring **serverless**, **containers**, and infrastructure design
-
+-  
 ---
 
 ## Technologies & Tools
@@ -20,8 +19,7 @@ I’m a technology enthusiast driven by the desire to understand **how things wo
 | Languages | Java, Go |
 | Backend | Spring Boot, Gradle, net/http |
 | Cloud | AWS |
-| DevOps | Docker, Docker Compose, Terraform |
-| Databases | MySQL |
+| DevOps | Docker, Docker Compose |
 | Others | Linux, Git, REST APIs, Clean Code |
 
 ---
@@ -30,6 +28,7 @@ I’m a technology enthusiast driven by the desire to understand **how things wo
 
 | Project | Description | Link of project |
 |---------|-------------|-------------|
+| AWS Authentication Service | CI/CD pipeline with automatic deployment | [aws-auth](https://github.com/marcos-j-ferreira/aws-auth-service.git) |
 | Online Chess Game | Real-time multiplayer chess game | [Chess-EC2-prod](https://github.com/marcos-j-ferreira/chess-EC2-prod.git) |
 | Static Website on AWS | Frontend hosted using S3 | [website-Static-S3](https://github.com/marcos-j-ferreira/website-Static-S3.git) |
 | Serverless Function | Application using AWS Lambda | [lambda-java](https://github.com/marcos-j-ferreira/lambda-java.git) |
