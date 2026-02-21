@@ -1,51 +1,23 @@
-#                                       I'm Marcos
+# Marcos Junior
+
+I investigate how simple computational units scale into systems capable of language, reasoning and abstraction.
+
+Researcher and LLM enthusiast focused on deep learning — exploring how a single artificial neuron, when structured and optimized at scale, can give rise to architectures that resemble cognition.
+
+Currently pursuing a degree in Systems Analysis and Development (IFSC).  
+My essays and research notes are published on my website.
+
+
+        w1*x1
+         \
+          Σ  →  f(x)  →  intelligence?
+         /
+        w2*x2
+
 
 ---
 
-I’m a technology enthusiast driven by the desire to understand **how things work behind the scenes**. I’m currently focused on **Cloud Computing** and **backend architecture**, continuously improving my skills and building real-world solutions.
+### Connect
 
----
-
-## What I'm currently working on
--  Improving my knowledge in **AWS** and cloud architectures
--  Developing practical projects combining **Cloud + Backend**
--  
----
-
-## Technologies & Tools
-
-| Category | Tools |
-|----------|--------|
-| Languages | Java, Go |
-| Backend | Spring Boot, Gradle, net/http |
-| Cloud | AWS |
-| DevOps | Docker, Docker Compose |
-| Others | Linux, Git, REST APIs, Clean Code |
-
----
-
-## Highlight Projects
-
-| Project | Description | Link of project |
-|---------|-------------|-------------|
-| AWS Authentication Service | CI/CD pipeline with automatic deployment | [aws-auth](https://github.com/marcos-j-ferreira/aws-auth-service.git) |
-| Online Chess Game | Real-time multiplayer chess game | [Chess-EC2-prod](https://github.com/marcos-j-ferreira/chess-EC2-prod.git) |
-| Static Website on AWS | Frontend hosted using S3 | [website-Static-S3](https://github.com/marcos-j-ferreira/website-Static-S3.git) |
-| Serverless Function | Application using AWS Lambda | [lambda-java](https://github.com/marcos-j-ferreira/lambda-java.git) |
-| E-commerce API | Domain-driven REST API built with best practices | [E-commerce-API](https://github.com/marcos-j-ferreira/E-Commerce-API.git)|
-
-> Some projects are still in development and constantly evolving.
-
----
-
-## Career Goal
-I am working to evolve as a **Backend Developer specialized in Cloud**, mastering architecture, scalable systems, and real-world software development.
-
----
-
-## About Me
-- Passionate about **technical depth**
-- Motivated by solving **real-world problems**
-- Fan of **clean and organized code**
-- Driven by **continuous learning and growth**
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-j%C3%BAnior-2652b4316/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Marcos84042822)
